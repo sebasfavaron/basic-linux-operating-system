@@ -1,0 +1,4 @@
+#!/bin/bash
+cd Tests
+make
+./testBuddy.bin
